@@ -6,7 +6,7 @@ Its been a while now, writing and releasing CTFs.
 What have I learned?
 
 **Keep Skills Sharp**  
-I've worked previously in Operations and as Developer, and I run a bunch of sites so it would be easy to fall into complacency. Setting up the infrastructure and building the stack for a CTF is a fantastic refresher to keep skills sharp.   
+I've worked previously in operations and as a developer, and I run a bunch of sites so it would be easy to fall into complacency. Setting up the infrastructure and building the stack for a CTF is a fantastic refresher to keep skills sharp.   
 Know Apache inside out? Throw yourself at Nginx.  
 Need to build something? Try a different framework than last time.  
 
