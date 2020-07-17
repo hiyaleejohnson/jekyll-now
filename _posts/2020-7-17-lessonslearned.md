@@ -20,8 +20,8 @@ This is something I am working on but I can see that player interaction is neede
 I'm really hoping that [#ctfwhysomanybiscuits](https://twitter.com/hashtag/ctfwhysomanybiscuits) will take off in all honesty.  
 Meanwhile please feel free to direct message me on [twitter](https://twitter.com/lj_actual) with questions or comments.
 
-![Silence](/images/scott-umstattd-iSTs6Lcu-Ek-unsplash.jpg))  
-Silence Photo by [Scott Umstattd](https://unsplash.com/@scott_umstattd) on [Unsplash](https://unsplash.com).  
+![Silence](/images/scott-umstattd-iSTs6Lcu-Ek-unsplash.jpg)
+Photo by [Scott Umstattd](https://unsplash.com/@scott_umstattd) on [Unsplash](https://unsplash.com).  
 
 **Logs**  
 The logs of a CTF will show "B4ckdoor-owned-you" more times than you can shake a tool at.  
