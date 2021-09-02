@@ -2,7 +2,7 @@
 layout: post
 title: ctf - dom - solution
 ---
-Here is the solution to CTF ['dom'](https://hiyaleejohnson.github.io/ctf1) (which has the honour of having to be solved by me just like everyone else, as all the notes taken during creation were misplaced).  
+Here is the solution to CTF ['dom'](https://hiyaleejohnson.github.io/ctf2) (which has the honour of having to be solved by me just like everyone else, as all the notes taken during creation were misplaced).  
 
 ![dom screenshot](/images/dom_screenshot_1.JPG)  
 
@@ -18,13 +18,13 @@ Download image.
   
 ![Curl screenshot](/images/domsolution/ctfdom_downloadimage.jpg)
 
-## 3
+### 3
 Open image using archive utility.
   
 ![Launching archive utility screenshot](/images/domsolution/ctfdom_open7zipfm.jpg)
 
 
-## 4
+### 4
 Observe new location.txt file and open.  
 
 ![Archive utility screenshot](/images/domsolution/ctfdom_openwith7zipusingpassword.jpg)
@@ -49,7 +49,7 @@ Decode Base64 string.
 ![Decoded base64 strings screenshot](/images/domsolution/ctfdom_base64locationstringdecoded.jpg)
 
     <!--// Paul Shane performing 'You've Lost that Loving Feeling' (1996) https://www.youtube.com/watch?v=GPS0r3RMenc // Lost 5 Seasons in 8 minutes https://www.youtube.com/watch?v=GdT8eqMO4qk // Everything But The Girl - Missing - (Todd Terry Remix) (Official Music Video) https://www.youtube.com/watch?v=IAkY5m00rpY // The Black Eyed Peas - Where Is The Love? (Official Music Video) https://www.youtube.com/watch?v=WpYeekQkAdc // RUN DMC, Jason Nevins - It's Like That (Video) https://www.youtube.com/watch?v=4B_UYYPb-Gk // Ini Kamoze - Here Comes The Hotstepper (Remix) (Video) https://www.youtube.com/watch?v=15UffN8eilILy8gTG9zdCA1IFNlYXNvbnMgaW4gOCBtaW51dGVz //https://www.google.com/maps/@54.5456728,-1.9387711,5364m/data=!3m2!1e3!4b1!4m5!3m4!1s0x487c235f994d8231:0xa0e235a2aa664382!8m2!3d54.545284!4d-1.923741-->
-  
+    
 [![Youtube screenshot of Lost 5 seasons in 8 minutes](/images/domsolution/ctfdom_youtubelost.jpg)](https://www.youtube.com/watch?v=AyOqGRjVtls)    
 
 ### 6
