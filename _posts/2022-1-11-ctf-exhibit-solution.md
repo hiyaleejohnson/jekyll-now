@@ -2,7 +2,7 @@
 layout: post
 title: ctf - exhibit - solution
 ---
-Here is the solution to CTF ['exhibit'](https://hiyaleejohnson.github.io/ctf3).  **This time with video no less!**
+Here is the solution to CTF ['exhibit'](https://hiyaleejohnson.github.io/ctf3). This time with video no less!
 
 <video controls="" width="100%">
   <source  src="https://raw.githubusercontent.com/hiyaleejohnson/hiyaleejohnson.github.io/master/videos/CTF_Exhibit_Solution.mp4" type="video/mp4">
@@ -104,7 +104,7 @@ This CTF was a lot less CTF-like and focused on security misconfigurations and d
 #### Aside
 Disappointingly very few of the CTF players contacted me to be pleased with themselves for spotting that the named users are all the real names of celebrities </shakes head sadly>.  
 
-*And yes, I know I spelt Farrokh wrong*
+*And yes, I know I spelt Farrokh wrong! C'est la vie.*
  
 ### Thank You
 Thank you for the music "Cumbia de los Barrios" [El Hijo de la Cumbia](https://freemusicarchive.org/music/El_Hijo_de_la_Cumbia/Freestyle_de_Ritmos/6_Cumbia_De_Los_Barrios).  
