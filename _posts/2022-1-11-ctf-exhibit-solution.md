@@ -46,7 +46,7 @@ Note that "api/v2/customers" returns a forbidden response.
 
 Note that "api/v2/users" discloses information (list of userIds).  
 
-Use the format of the disclosed API paths to assume the API path path format for users and enumerate the now known userID values (e.g. "/api/v2/user/3094").  
+Use the format of the disclosed API paths to assume the API path path format for users and enumerate the now known userId values (e.g. "/api/v2/user/3094").  
 
 All paths are returned as "Not Found".  
 
@@ -62,7 +62,7 @@ Look for information using the earlier disclosed hashId (e.g. "api/v1/hash/31").
 
 Path does not load a page but a different error message is returned; "Method Not Allowed" instead of "Forbidden" or "Not Found".  
 
-Try a different HTTP request medthod such as POST (instead of GET).  
+Try a different HTTP request method such as POST (instead of GET).  
 
 A successful response returns a hashValue that can be saved for later use.  
 
@@ -94,7 +94,7 @@ Search through the files for the flag (flag format begins '{').
 ### Conclusion  
 This CTF was a lot less CTF-like than previous ones and focused on security misconfigurations and deviations from best practice:
 * Framework Misconfiguration.
-* Information Disclosure (via comments, meaningfuly named parameters, meaningful API paths and meaningful error information).
+* Information Disclosure (via comments, meaningfully named parameters, meaningful API paths and meaningful error information).
 * Multiple versions of APIs remain place.
 * Server misconfiguration does not limit HTTP methods.
 * Server misconfiguration uses passwords for SFTP instead of key.
