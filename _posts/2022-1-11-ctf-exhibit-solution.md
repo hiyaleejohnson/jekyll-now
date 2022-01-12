@@ -58,7 +58,7 @@ Using the format we now know for the API paths use the newly disclosed customerI
 
 Name details now returned - "Farookh Bulsara".  
 
-Look for information using the earlier disclosed hashId (e.g. "api/vv1/hash/31").  
+Look for information using the earlier disclosed hashId (e.g. "api/v1/hash/31").  
 
 Path does not load a page but a different error message is returned; "Method Not Allowed" instead of "Forbidden" or "Not Found".  
 
@@ -92,19 +92,19 @@ Search through the files for the flag (flag format begins '{').
 **We have flag!**  
 
 ### Conclusion  
-This CTF was a lot less CTF-like and focused on security misconfigurations and deviations from best practice:
+This CTF was a lot less CTF-like than previous ones and focused on security misconfigurations and deviations from best practice:
 * Framework Misconfiguration.
 * Information Disclosure (via comments, meaningfuly named parameters, meaningful API paths and meaningful error information).
 * Multiple versions of APIs remain place.
 * Server misconfiguration does not limit HTTP methods.
-* Server misconfiguration uses passwords for SFTP instead of Key.
-* Server misconfiguration of SFTP exposes all users files (key was in Tracy Marrow's notes).
+* Server misconfiguration uses passwords for SFTP instead of key.
+* Server misconfiguration of SFTP exposes all users files (flag was found in Tracy Marrow's notes despite using Farookh Bulsara's creds to login).
 
 
 #### Aside
 Disappointingly very few of the CTF players contacted me to be pleased with themselves for spotting that the named users are all the real names of celebrities </shakes head sadly>.  
 
-*And yes, I know I spelt Farrokh wrong! C'est la vie.*
+*And yes, I know I spelled Farrokh wrong! C'est la vie.*
  
 ### Thank You
 Thank you for the music "Cumbia de los Barrios" [El Hijo de la Cumbia](https://freemusicarchive.org/music/El_Hijo_de_la_Cumbia/Freestyle_de_Ritmos/6_Cumbia_De_Los_Barrios).  
