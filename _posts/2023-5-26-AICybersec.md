@@ -5,6 +5,7 @@ date: 2023-05-26
 ---
 Spot the very obvious thing.
 
+> *AI was asked to make a case against itself and did an OK job asking people to leave it alone. Except for the images to illustrate the point. That was a mess.*
 
 Artificial intelligence (AI) is rapidly becoming a part of our everyday lives. From powering our smartphones to helping us make decisions, AI is changing the way we interact with the world. However, as AI becomes more sophisticated, it is important to be aware of its limitations. One area where AI is still lacking is in the field of cybersecurity.
 
