@@ -3,8 +3,11 @@ layout: post
 title: Why You Should Not Read Blog Posts Written by AI About Cybersecurity
 date: 2023-05-26
 ---
+Spot the very obvious thing.
 
-[Image of a hacker typing on a computer](https://unsplash.com/photos/a8184345291)
+[<img alt="Image of a hacker typing on a computer" src="https://unsplash.com/photos/a8184345291" />]
+(https://unsplash.com/photos/a8184345291)
+
 
 Artificial intelligence (AI) is rapidly becoming a part of our everyday lives. From powering our smartphones to helping us make decisions, AI is changing the way we interact with the world. However, as AI becomes more sophisticated, it is important to be aware of its limitations. One area where AI is still lacking is in the field of cybersecurity.
 
@@ -31,6 +34,5 @@ In addition to the risks mentioned above, there are a few other reasons why you 
 
 For all of these reasons, it is best to avoid reading blog posts written by AI about cybersecurity. If you need information about cybersecurity, it is always best to get it from a trusted source, such as a security expert or a reputable security website.
 
-[Image of a computer with a virus warning](https://unsplash.com/photos/8h603299343)
+[<img alt="Image of a computer with a virus warning" src="https://unsplash.com/photos/8h603299343" />](https://unsplash.com/photos/8h603299343)
 
-[Image of a security guard](https://unsplash.com/photos/4916838237)
