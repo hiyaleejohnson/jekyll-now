@@ -5,9 +5,6 @@ date: 2023-05-26
 ---
 Spot the very obvious thing.
 
-[<img alt="Image of a hacker typing on a computer" src="https://unsplash.com/photos/a8184345291" />]
-(https://unsplash.com/photos/a8184345291)
-
 
 Artificial intelligence (AI) is rapidly becoming a part of our everyday lives. From powering our smartphones to helping us make decisions, AI is changing the way we interact with the world. However, as AI becomes more sophisticated, it is important to be aware of its limitations. One area where AI is still lacking is in the field of cybersecurity.
 
@@ -34,5 +31,13 @@ In addition to the risks mentioned above, there are a few other reasons why you 
 
 For all of these reasons, it is best to avoid reading blog posts written by AI about cybersecurity. If you need information about cybersecurity, it is always best to get it from a trusted source, such as a security expert or a reputable security website.
 
-[<img alt="Image of a computer with a virus warning" src="https://unsplash.com/photos/8h603299343" />](https://unsplash.com/photos/8h603299343)
+**Edit**
+
+Hallucination in AI models can lead to blog post authors including links to image URLs that do not exist. This can happen when the AI model is asked to generate a blog post on a topic that it has not been trained on. In this case, the AI model may generate text that includes references to images that do not exist. This can be a problem for blog post authors, as it can lead to readers being unable to view the images that are referenced in the post. In order to fix this problem, blog post authors may need to edit the post and remove all auto-retrieved image links.
+
+Here are some tips for avoiding this problem:
+
+* Only use AI models that have been trained on a large and diverse dataset of text.
+* Be careful when using AI models to generate text on topics that you are not familiar with.
+* Always check the images that are referenced in your blog posts before publishing them.
 
